@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ALUNO\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALUNO\\OneDrive\\Área de Trabalho\\csharp\\curso3c#.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\csharp\\curso3c#.csproj",
       "projectName": "curso3c#",
-      "projectPath": "C:\\Users\\ALUNO\\OneDrive\\Área de Trabalho\\csharp\\curso3c#.csproj",
-      "packagesPath": "C:\\Users\\ALUNO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALUNO\\OneDrive\\Área de Trabalho\\csharp\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\csharp\\curso3c#.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ALUNO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
