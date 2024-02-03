@@ -1,4 +1,7 @@
-class Album
+namespace Gy.Modelos;
+
+
+internal class Album
 {
     private List<Musica> musicas = new List<Musica>();
 

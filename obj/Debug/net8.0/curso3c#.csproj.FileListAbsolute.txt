@@ -13,3 +13,18 @@ C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\obj\Debug\net8.0\refint\curso3c
 C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\obj\Debug\net8.0\curso3c#.pdb
 C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\obj\Debug\net8.0\curso3c#.genruntimeconfig.cache
 C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\obj\Debug\net8.0\ref\curso3c#.dll
+C:\Users\Admin\Desktop\csharp\obj\Debug\net8.0\curso3c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\csharp\obj\Debug\net8.0\curso3c#.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\csharp\obj\Debug\net8.0\curso3c#.AssemblyInfo.cs
+C:\Users\Admin\Desktop\csharp\obj\Debug\net8.0\curso3c#.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\csharp\obj\Debug\net8.0\curso3c#.sourcelink.json
+C:\Users\Admin\Desktop\csharp\obj\Debug\net8.0\curso3c#.dll
+C:\Users\Admin\Desktop\csharp\obj\Debug\net8.0\refint\curso3c#.dll
+C:\Users\Admin\Desktop\csharp\obj\Debug\net8.0\curso3c#.pdb
+C:\Users\Admin\Desktop\csharp\bin\Debug\net8.0\curso3c#.exe
+C:\Users\Admin\Desktop\csharp\bin\Debug\net8.0\curso3c#.deps.json
+C:\Users\Admin\Desktop\csharp\bin\Debug\net8.0\curso3c#.runtimeconfig.json
+C:\Users\Admin\Desktop\csharp\bin\Debug\net8.0\curso3c#.dll
+C:\Users\Admin\Desktop\csharp\bin\Debug\net8.0\curso3c#.pdb
+C:\Users\Admin\Desktop\csharp\obj\Debug\net8.0\curso3c#.genruntimeconfig.cache
+C:\Users\Admin\Desktop\csharp\obj\Debug\net8.0\ref\curso3c#.dll

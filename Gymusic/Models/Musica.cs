@@ -1,4 +1,6 @@
-class Musica
+namespace Gy.Modelos;
+
+internal class Musica
 {
     public Musica(Banda artista, string nome)
     {
