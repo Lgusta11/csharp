@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
 namespace Gy.Modelos
 {
     internal class Banda : IAvaliavel
@@ -23,6 +19,7 @@ namespace Gy.Modelos
                 else return notas.Average(a => a.Nota);
             }
         }
+        public string? Resumo { get; set;}
         public List<Album> Albuns => albuns;
 
         public void AdicionarAlbum(Album album)

@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Threading;
 using Gy.Menus;
 
+
+
 namespace Gy.Modelos
 {
     class Program
@@ -15,7 +17,8 @@ namespace Gy.Modelos
             { 3, new MenuMostrarBandasRegistradas() },
             { 4, new MenuAvaliarUmaBanda() },
             { 5, new MenuExibirDetalhes() },
-            { -1, new MenuSair() }
+            { -1, new MenuSair() },
+            {6 , new MenuAvaliarAlbum()}
         };
 
         static void Main(string[] args)
@@ -43,7 +46,7 @@ namespace Gy.Modelos
             programa.ExibirOpcoesDoMenu();
         }
 
-        void ExibirLogo()
+         void ExibirLogo()
         {
             Console.WriteLine(@"
 ░██████╗░██╗░░░██╗  ███╗░░░███╗██╗░░░██╗░██████╗██╗░█████╗░
@@ -64,6 +67,7 @@ namespace Gy.Modelos
             Console.WriteLine("Digite 3 para mostrar todas as bandas");
             Console.WriteLine("Digite 4 para avaliar uma banda");
             Console.WriteLine("Digite 5 para exibir os detalhes de uma banda");
+            Console.WriteLine("Digite 6 para avaliar Album de uma banda");
             Console.WriteLine("Digite -1 para sair");
 
             Console.Write("\nDigite a sua opção: ");
@@ -91,3 +95,5 @@ namespace Gy.Modelos
         }
     }
 }
+
+   

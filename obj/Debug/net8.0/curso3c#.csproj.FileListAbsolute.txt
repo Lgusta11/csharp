@@ -28,3 +28,17 @@ C:\Users\Admin\Desktop\csharp\bin\Debug\net8.0\curso3c#.dll
 C:\Users\Admin\Desktop\csharp\bin\Debug\net8.0\curso3c#.pdb
 C:\Users\Admin\Desktop\csharp\obj\Debug\net8.0\curso3c#.genruntimeconfig.cache
 C:\Users\Admin\Desktop\csharp\obj\Debug\net8.0\ref\curso3c#.dll
+C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\OpenAI_API.dll
+C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\obj\Debug\net8.0\curso3c#.csproj.AssemblyReference.cache
+C:\Users\ALUNO\OneDrive\Área de Trabalho\csharp\obj\Debug\net8.0\curso3c#.csproj.CopyComplete
